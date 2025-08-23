@@ -27,7 +27,7 @@ Este é um simples sistema de gerenciamento de listas de compras escrito em Pyth
 1. Clone ou baixe este repositório:
 
 ```bash
-git clone https://github.com/NicolasVMarques/app-compras-python
+git clone https://github.com/NicolasVMarques/sistema-compras-python
 ```
 2. Entre na pasta do projeto:
 
