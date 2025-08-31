@@ -29,7 +29,7 @@ Este é um simples sistema de gerenciamento de listas de compras escrito em Pyth
 ```bash
 git clone https://github.com/NicolasVMarques/sistema-compras-python
 ```
-2. Entre na pasta do projeto:
+2. Entre na pasta do projeto via Prompt de Comando:
 
 ```bash
 cd sua-pasta
